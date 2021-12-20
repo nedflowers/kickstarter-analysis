@@ -1,8 +1,7 @@
 # Kickstarter Campaign Outcomes
 
 ## Overview of Project
-- Analyzed Kickstarter Crowdfunding Data to determine outcome of theater campaigns as to their launch dates and campaign goals.
-       - More specifically, I wanted to find if there was any relation between a campaign's probability of success in relation to their launch dates and campaign goals.
+- Analyzed Kickstarter Crowdfunding Data to determine outcome of theater campaigns as to their launch dates and campaign goals. More specifically, I wanted to find if there was any relation between a campaign's probability of success in relation to their launch dates and campaign goals.
 
 ## Analysis and Challenges
  
