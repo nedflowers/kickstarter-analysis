@@ -9,16 +9,17 @@
 ### Analysis of Outcomes Based on Launch Date
     I began the analysis by comparing successful, failed, and canceled Kickstarter campaign numbers. To accomplish this, I created a table with Kickstarter's campaign information from the years 2009 through 2017. Then, I assigned the table to read back values reflecting the total failed, successful, and canceled campaign numbers, per month, for the afore-mentioned years. Please see corresponding line chart below:
       
-      
-       ![This is an image] 
+      ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95272294/146709522-2d6dac78-719e-4750-9236-84e6679e8018.png)
+
 
     As can be inferred from the chart, theater campaign fundraisers, that launched in May, appear to be more successful than in any other month. In fact, through the data, we can determine 63% of campaigns launched in May achieved their goal. In comparison, December campaigns performed poorly, with only a 49% success rate, and one of the higher failure rates at 47%. The only month which saw an even higher number of failing campaigns is October. However, it is worthy to note, although October saw the largest number of failing campaigns at 50, it was also not the best month for success, as only 65 out of 115 campaigns made it. 
 
 ### Analysis of Outcomes Based on Goals
     First, I grouped the data based on their goal amount by dollar-amount ranges. Within these ranges, Kickstarter projects are grouped again by numerical values of successful, failed, and canceled projects. Next, the value for the successful, failed, and canceled projects is divided, respectively, by the total number of projects in each range of dollar-amount goals. This gave me the percentage of successful, failed, and canceled projects, which were used to chart the following:
 
-         ![This is an image] 
-        
+         
+        ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95272294/146709546-34e6e30f-2c9e-43d5-9ffe-6c8b8b15cafc.png)
+
     
     The chart tells me the percentage of successful projects mirrors the percentage of those failed. Based on the data, campaign goals with less than 1000 dollars were most successful. Conversely, campaigns with goals equaling less than 1000 were least likely to fail. Campaigns within the 45000 to 49999 dollar-range performed the poorest at 100% failure rate and 0% success rate. 
 
